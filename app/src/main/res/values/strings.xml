@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database Demo</string>
+    <string name="phone">Phone</string>
+    <string name="message">Message</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
+</resources>
